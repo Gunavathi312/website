@@ -1,0 +1,3 @@
+At first, Git comes across as an easy tool that can be learned later when there is a real need. And that day comes when the git command shoots an error, after which Git becomes too complicated to understand. Often developers resort to copy-pasting which doesn’t help in the long run. Unless you are hands-on with Git, you are not an independent developer.
+
+
